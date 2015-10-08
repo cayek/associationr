@@ -1,0 +1,12 @@
+Package: associationr
+Type: Package
+Title: An implementation of association analysis tools
+Version: 0.1
+Date: 2015-08-12
+Authors@R: person("Kevin", "Caye", email = "kevin.caye@imag.com", role = c("aut", "cre"))
+Description: More about what it does (maybe more than one line)
+License: GNU General Public License
+LazyData: TRUE
+Suggests: testthat
+Imports: stats,
+    datasets
