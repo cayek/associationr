@@ -14,3 +14,10 @@ vignettes/*.pdf
 
 # emacs
 *~
+.Rproj.user
+
+# data and tmp file
+data/
+file*.lfmm*
+file*.env
+.RData
